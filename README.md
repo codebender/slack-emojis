@@ -20,5 +20,6 @@
 | ![fry](emojis/fry.png)                            | fry             |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
+| ![ruby](emojis/ruby.png)                          | ruby            |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
