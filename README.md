@@ -13,6 +13,7 @@
 
 | Image                                             | Shortcut        |
 | :-----------------------------------------------: | --------------- |
+| ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![fry](emojis/fry.png)                            | fry             |
