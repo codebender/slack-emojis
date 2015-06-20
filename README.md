@@ -15,3 +15,7 @@
 | :-----------------------------------------------: | --------------- |
 | ![colorado](emoticons/colorado.png)               | colorado        |
 | ![denver](emoticons/denver.png)                   | denver          |
+| ![fry](emoticons/fry.png)                         | fry             |
+| ![goodnews](emoticons/goodnews.png)               | goodnews        |
+| ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
+| ![zoidberg](emoticons/zoidberg.png)               | zoidberg        |
