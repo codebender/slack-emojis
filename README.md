@@ -13,9 +13,9 @@
 
 | Image                                             | Shortcut        |
 | :-----------------------------------------------: | --------------- |
-| ![colorado](emoticons/colorado.png)               | colorado        |
-| ![denver](emoticons/denver.png)                   | denver          |
-| ![fry](emoticons/fry.png)                         | fry             |
-| ![goodnews](emoticons/goodnews.png)               | goodnews        |
-| ![takemymoney](emoticons/takemymoney.png)         | takemymoney     |
-| ![zoidberg](emoticons/zoidberg.png)               | zoidberg        |
+| ![colorado](emojis/colorado.png)                  | colorado        |
+| ![denver](emojis/denver.png)                      | denver          |
+| ![fry](emojis/fry.png)                            | fry             |
+| ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
+| ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
