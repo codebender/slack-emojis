@@ -19,5 +19,6 @@
 | ![denver](emojis/denver.png)                      | denver          |
 | ![fry](emojis/fry.png)                            | fry             |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
