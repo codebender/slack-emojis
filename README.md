@@ -16,6 +16,7 @@
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![broncos](emojis/broncos.png)                    | broncos         |
+| ![bueller](emojis/bueller.png)                    | bueller         |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
