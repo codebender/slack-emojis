@@ -24,4 +24,5 @@
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
+| ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
