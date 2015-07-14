@@ -15,6 +15,7 @@
 | :-----------------------------------------------: | --------------- |
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
+| ![blinker](emojis/blinker.png)                    | blinker         |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
