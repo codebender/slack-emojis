@@ -22,6 +22,7 @@
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![fry](emojis/fry.png)                            | fry             |
+| ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![ruby](emojis/ruby.png)                          | ruby            |
