@@ -22,6 +22,7 @@
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
+| ![fingerscrossed](emojis/fingerscrossed.png)      | fingerscrossed  |
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
