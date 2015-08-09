@@ -18,6 +18,7 @@
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
+| ![carfax](emojis/carfax.png)                      | carfax          |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
