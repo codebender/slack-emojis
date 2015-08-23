@@ -22,12 +22,15 @@
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
+| ![ferrari](emojis/ferrari.png)                    | ferrari         |
 | ![fingerscrossed](emojis/fingerscrossed.png)      | fingerscrossed  |
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
+| ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
