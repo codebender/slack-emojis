@@ -22,6 +22,7 @@
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
 | ![fingerscrossed](emojis/fingerscrossed.png)      | fingerscrossed  |
 | ![fry](emojis/fry.png)                            | fry             |
