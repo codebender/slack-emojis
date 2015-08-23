@@ -27,6 +27,7 @@
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
