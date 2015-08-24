@@ -30,6 +30,7 @@
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
+| ![kitten](emojis/kitten.png)                      | kitten          |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![ruby](emojis/ruby.png)                          | ruby            |
