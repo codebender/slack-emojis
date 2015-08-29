@@ -22,6 +22,7 @@
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![elixir](emojis/elixir.png)                      | elixir          |
 | ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
 | ![ferrari](emojis/ferrari.png)                    | ferrari         |
@@ -33,6 +34,7 @@
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
+| ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![usa](emojis/usa.png)                            | usa             |
