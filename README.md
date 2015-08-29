@@ -22,6 +22,7 @@
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![elixir](emojis/elixir.png)                      | elixir          |
 | ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
 | ![ferrari](emojis/ferrari.png)                    | ferrari         |
