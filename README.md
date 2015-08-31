@@ -36,6 +36,7 @@
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
+| ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
