@@ -16,6 +16,7 @@
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![blinker](emojis/blinker.png)                    | blinker         |
+| ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
 | ![carfax](emojis/carfax.png)                      | carfax          |
