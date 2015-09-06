@@ -15,12 +15,14 @@
 | :-----------------------------------------------: | --------------- |
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
+| ![aws](emojis/aws.png)                            | aws             |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
 | ![carfax](emojis/carfax.png)                      | carfax          |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
+| ![circleci](emojis/circleci.png)                  | circleci        |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![elixir](emojis/elixir.png)                      | elixir          |
@@ -31,6 +33,7 @@
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![heroku](emojis/heroku.png)                      | heroku          |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
@@ -38,6 +41,7 @@
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
+| ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
