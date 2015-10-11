@@ -13,8 +13,9 @@
 
 | Image                                             | Shortcut        |
 | :-----------------------------------------------: | --------------- |
-| ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
+| ![ambulance](emojis/ambulance.gif)                | ambulance       |
+| ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![bmw](emojis/bmw.png)                            | bmw             |
@@ -25,6 +26,7 @@
 | ![circleci](emojis/circleci.png)                  | circleci        |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![ducks](emojis/ducks.png)                        | ducks           |
 | ![elixir](emojis/elixir.png)                      | elixir          |
 | ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
