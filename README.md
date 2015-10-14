@@ -44,6 +44,7 @@
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
+| ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
