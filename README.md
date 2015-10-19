@@ -39,6 +39,7 @@
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
+| ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
