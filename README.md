@@ -18,6 +18,7 @@
 | ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
 | ![blinker](emojis/blinker.png)                    | blinker         |
+| ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
 | ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
