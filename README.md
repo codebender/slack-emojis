@@ -38,6 +38,7 @@
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![heroku](emojis/heroku.png)                      | heroku          |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
+| ![indeed](emojis/indeed.png)                      | indeed          |
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
