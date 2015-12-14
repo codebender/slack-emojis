@@ -50,5 +50,6 @@
 | ![snow](emojis/snow.gif)                          | snow            |
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
+| ![travolta](emojis/travolta.gif)                  | travolta        |
 | ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
