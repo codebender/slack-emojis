@@ -23,9 +23,11 @@
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![bueller](emojis/bueller.png)                    | bueller         |
 | ![carfax](emojis/carfax.png)                      | carfax          |
+| ![cartman](emojis/cartman.gif)                    | cartman         |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![circleci](emojis/circleci.png)                  | circleci        |
 | ![colorado](emojis/colorado.png)                  | colorado        |
+| ![cylon](emojis/cylon.gif)                        | cylon           |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![ducks](emojis/ducks.png)                        | ducks           |
 | ![elixir](emojis/elixir.png)                      | elixir          |
