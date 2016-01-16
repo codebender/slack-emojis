@@ -38,6 +38,7 @@
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![happybirthday](emojis/happybirthday.gif)        | happybirthday   |
 | ![heroku](emojis/heroku.png)                      | heroku          |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![indeed](emojis/indeed.png)                      | indeed          |
