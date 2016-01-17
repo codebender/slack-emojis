@@ -21,6 +21,7 @@
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
 | ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
+| ![broncosclassic](emojis/broncosclassic.png)      | broncosclassic  |
 | ![bueller](emojis/bueller.png)                    | bueller         |
 | ![carfax](emojis/carfax.png)                      | carfax          |
 | ![cartman](emojis/cartman.gif)                    | cartman         |
