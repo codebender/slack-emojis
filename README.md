@@ -15,8 +15,10 @@
 | :-----------------------------------------------: | --------------- |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
+| ![astonmartin](emojis/astonmartin.png)            | astonmartin     |
 | ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
+| ![bentley](emojis/bentley.png)                    | bentley         |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
 | ![bmw](emojis/bmw.png)                            | bmw             |
@@ -44,10 +46,13 @@
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![indeed](emojis/indeed.png)                      | indeed          |
 | ![kitten](emojis/kitten.png)                      | kitten          |
+| ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
+| ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
+| ![porsche](emojis/porsche.png)                    | porsche         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
