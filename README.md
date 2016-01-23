@@ -46,6 +46,7 @@
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![indeed](emojis/indeed.png)                      | indeed          |
 | ![kitten](emojis/kitten.png)                      | kitten          |
+| ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
