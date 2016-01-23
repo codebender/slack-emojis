@@ -15,6 +15,7 @@
 | :-----------------------------------------------: | --------------- |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
+| ![astonmartin](emojis/astonmartin.png)            | astonmartin     |
 | ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
 | ![blinker](emojis/blinker.png)                    | blinker         |
