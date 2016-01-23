@@ -52,6 +52,7 @@
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
+| ![porsche](emojis/porsche.png)                    | porsche         |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
