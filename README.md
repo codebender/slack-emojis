@@ -18,6 +18,7 @@
 | ![astonmartin](emojis/astonmartin.png)            | astonmartin     |
 | ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
+| ![bentley](emojis/bentley.png)                    | bentley         |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
 | ![bmw](emojis/bmw.png)                            | bmw             |
