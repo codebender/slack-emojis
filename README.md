@@ -50,6 +50,7 @@
 | ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
+| ![pfm](emojis/pfm.png)                            | pfm             |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![porsche](emojis/porsche.png)                    | porsche         |
@@ -57,6 +58,7 @@
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![snow](emojis/snow.gif)                          | snow            |
+| ![superbowl](emojis/superbowl.png)                | superbowl       |
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![usa](emojis/usa.png)                            | usa             |
