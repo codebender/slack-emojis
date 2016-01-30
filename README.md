@@ -61,5 +61,6 @@
 | ![superbowl](emojis/superbowl.png)                | superbowl       |
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
+| ![tesla](emojis/tesla.png)                        | tesla           |
 | ![usa](emojis/usa.png)                            | usa             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
