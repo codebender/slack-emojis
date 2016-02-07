@@ -47,6 +47,7 @@
 | ![indeed](emojis/indeed.png)                      | indeed          |
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
+| ![lotus](emojis/lotus.png)                        | lotus           |
 | ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
