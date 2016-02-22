@@ -13,6 +13,7 @@
 
 | Image                                             | Shortcut        |
 | :-----------------------------------------------: | --------------- |
+| ![alfaromeo](emojis/alfaromeo.png)                | alfaromeo       |
 | ![allthethings](emojis/allthethings.png)          | allthethings    |
 | ![ambulance](emojis/ambulance.gif)                | ambulance       |
 | ![astonmartin](emojis/astonmartin.png)            | astonmartin     |
