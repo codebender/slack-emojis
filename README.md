@@ -30,6 +30,7 @@
 | ![cartman](emojis/cartman.gif)                    | cartman         |
 | ![catlockholmes](emojis/catlockholmes.png)        | catlockholmes   |
 | ![circleci](emojis/circleci.png)                  | circleci        |
+| ![clamps](emojis/clamps.png)                      | clamps          |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![cylon](emojis/cylon.gif)                        | cylon           |
 | ![denver](emojis/denver.png)                      | denver          |
