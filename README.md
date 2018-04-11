@@ -62,6 +62,7 @@
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![snow](emojis/snow.gif)                          | snow            |
+| ![stallion](emojis/stallion.png)                  | stallion        |
 | ![superbowl](emojis/superbowl.png)                | superbowl       |
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
