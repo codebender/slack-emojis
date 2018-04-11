@@ -34,6 +34,7 @@
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![cylon](emojis/cylon.gif)                        | cylon           |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![docker](emojis/docker.png)                      | docker          |
 | ![ducks](emojis/ducks.png)                        | ducks           |
 | ![elixir](emojis/elixir.png)                      | elixir          |
 | ![f1](emojis/f1.png)                              | f1              |
@@ -42,6 +43,8 @@
 | ![fingerscrossed](emojis/fingerscrossed.png)      | fingerscrossed  |
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
+| ![godzilla](emojis/godzilla.gif)                  | godzilla        |
+| ![godzilla-breathing-fire](emojis/godzilla-breathing-fire.gif) | godzilla-breathing-fire |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![happybirthday](emojis/happybirthday.gif)        | happybirthday   |
 | ![heroku](emojis/heroku.png)                      | heroku          |
