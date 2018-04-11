@@ -34,6 +34,7 @@
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![cylon](emojis/cylon.gif)                        | cylon           |
 | ![denver](emojis/denver.png)                      | denver          |
+| ![docker](emojis/docker.png)                      | docker          |
 | ![ducks](emojis/ducks.png)                        | ducks           |
 | ![elixir](emojis/elixir.png)                      | elixir          |
 | ![f1](emojis/f1.png)                              | f1              |
