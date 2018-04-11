@@ -63,6 +63,7 @@
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![snow](emojis/snow.gif)                          | snow            |
 | ![stallion](emojis/stallion.png)                  | stallion        |
+| ![stallions](emojis/stallions.gif)                | stallions       |
 | ![superbowl](emojis/superbowl.png)                | superbowl       |
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
