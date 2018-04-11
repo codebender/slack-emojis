@@ -42,6 +42,8 @@
 | ![fingerscrossed](emojis/fingerscrossed.png)      | fingerscrossed  |
 | ![fry](emojis/fry.png)                            | fry             |
 | ![github](emojis/github.png)                      | github          |
+| ![godzilla](emojis/godzilla.gif)                  | godzilla        |
+| ![godzilla-breathing-fire](emojis/godzilla-breathing-fire.gif) | godzilla-breathing-fire |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
 | ![happybirthday](emojis/happybirthday.gif)        | happybirthday   |
 | ![heroku](emojis/heroku.png)                      | heroku          |
