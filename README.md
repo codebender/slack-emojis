@@ -35,8 +35,10 @@
 | ![cylon](emojis/cylon.gif)                        | cylon           |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![docker](emojis/docker.png)                      | docker          |
+| ![donbot](emojis/donbot.png)                      | donbot          |
 | ![ducks](emojis/ducks.png)                        | ducks           |
 | ![elixir](emojis/elixir.png)                      | elixir          |
+| ![elzar](emojis/elzar.png)                        | elzar           |
 | ![f1](emojis/f1.png)                              | f1              |
 | ![facepalm](emojis/facepalm.png)                  | facepalm        |
 | ![ferrari](emojis/ferrari.png)                    | ferrari         |
@@ -54,6 +56,7 @@
 | ![kubernetes](emojis/kubernetes.png)              | kubernetes      |
 | ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
 | ![lotus](emojis/lotus.png)                        | lotus           |
+| ![lrrr](emojis/lrrr.png)                          | lrrr            |
 | ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
@@ -61,8 +64,11 @@
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![porsche](emojis/porsche.png)                    | porsche         |
-| ![ruby](emojis/ruby.png)                          | ruby            |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
+| ![roberto](emojis/roberto.png)                    | roberto         |
+| ![robot-devil](emojis/robot-devil.png)            | robot-devil     |
+| ![ruby](emojis/ruby.png)                          | ruby            |
+| ![scruffy](emojis/scruffy.png)                    | scruffy         |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![snow](emojis/snow.gif)                          | snow            |
 | ![stallion](emojis/stallion.png)                  | stallion        |
@@ -71,6 +77,7 @@
 | ![swiss](emojis/swiss.png)                        | swiss           |
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![tesla](emojis/tesla.png)                        | tesla           |
+| ![url](emojis/url.png)                            | url             |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
 
 ## Animated State Flags
