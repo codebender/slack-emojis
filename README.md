@@ -22,6 +22,8 @@
 | ![bentley](emojis/bentley.png)                    | bentley         |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
+| ![branch](emojis/branch.png)                      | branch          |
+| ![blond-tom-cruise](emojis/blond-tom-cruise.png)  | blond-tom-cruise|
 | ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
 | ![broncosclassic](emojis/broncosclassic.png)      | broncosclassic  |
@@ -33,6 +35,7 @@
 | ![clamps](emojis/clamps.png)                      | clamps          |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![cylon](emojis/cylon.gif)                        | cylon           |
+| ![delfino](emojis/delfino.png)                    | delfino         |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![docker](emojis/docker.png)                      | docker          |
 | ![donbot](emojis/donbot.png)                      | donbot          |
@@ -48,6 +51,7 @@
 | ![godzilla](emojis/godzilla.gif)                  | godzilla        |
 | ![godzilla-breathing-fire](emojis/godzilla-breathing-fire.gif) | godzilla-breathing-fire |
 | ![goodnews](emojis/goodnews.png)                  | goodnews        |
+| ![guanaco](emojis/guanaco.png)                    | guanaco         |
 | ![happybirthday](emojis/happybirthday.gif)        | happybirthday   |
 | ![heroku](emojis/heroku.png)                      | heroku          |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
@@ -57,20 +61,25 @@
 | ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
 | ![lotus](emojis/lotus.png)                        | lotus           |
 | ![lrrr](emojis/lrrr.png)                          | lrrr            |
+| ![mario-odyssey](emojis/mario-odyssey.png)        | mario-odyssey   |
 | ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
+| ![merge](emojis/merge.png)                        | merge           |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![pfm](emojis/pfm.png)                            | pfm             |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
+| ![pickle-rick](emojis/pickle-rick.png)            | pickle-rick     |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![porsche](emojis/porsche.png)                    | porsche         |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
 | ![roberto](emojis/roberto.png)                    | roberto         |
+| ![rosalina](emojis/rosalina.png)                  | rosalina        |
 | ![robot-devil](emojis/robot-devil.png)            | robot-devil     |
 | ![ruby](emojis/ruby.png)                          | ruby            |
 | ![scruffy](emojis/scruffy.png)                    | scruffy         |
 | ![semaphore](emojis/semaphore.png)                | semaphore       |
 | ![snow](emojis/snow.gif)                          | snow            |
+| ![staircar](emojis/staircar.png)                  | staircar        |
 | ![stallion](emojis/stallion.png)                  | stallion        |
 | ![stallions](emojis/stallions.gif)                | stallions       |
 | ![superbowl](emojis/superbowl.png)                | superbowl       |
@@ -78,6 +87,7 @@
 | ![takemymoney](emojis/takemymoney.png)            | takemymoney     |
 | ![tesla](emojis/tesla.png)                        | tesla           |
 | ![url](emojis/url.png)                            | url             |
+| ![warp-pipe](emojis/warp-pipe.png)                | warp-pipe       |
 | ![zoidberg](emojis/zoidberg.png)                  | zoidberg        |
 
 ## Animated State Flags
