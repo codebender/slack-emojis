@@ -22,6 +22,7 @@
 | ![bentley](emojis/bentley.png)                    | bentley         |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
+| ![branch](emojis/branch.png)                      | branch          |
 | ![blond-tom-cruise](emojis/blond-tom-cruise.png)  | blond-tom-cruise|
 | ![bmw](emojis/bmw.png)                            | bmw             |
 | ![broncos](emojis/broncos.png)                    | broncos         |
@@ -63,6 +64,7 @@
 | ![mario-odyssey](emojis/mario-odyssey.png)        | mario-odyssey   |
 | ![maserati](emojis/maserati.png)                  | maserati        |
 | ![mercedesbenz](emojis/mercedesbenz.png)          | mercedesbenz    |
+| ![merge](emojis/merge.png)                        | merge           |
 | ![nyancat](emojis/nyancat.gif)                    | nyancat         |
 | ![pfm](emojis/pfm.png)                            | pfm             |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
