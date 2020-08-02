@@ -19,6 +19,7 @@
 | ![astonmartin](emojis/astonmartin.png)            | astonmartin     |
 | ![avalanche](emojis/avalanche.png)                | avalanche       |
 | ![aws](emojis/aws.png)                            | aws             |
+| ![aww-yeah](emojis/aww-yeah.gif)                  | aww-yeah        |
 | ![bentley](emojis/bentley.png)                    | bentley         |
 | ![blinker](emojis/blinker.png)                    | blinker         |
 | ![blinkeroriginal](emojis/blinkeroriginal.png)    | blinkeroriginal |
@@ -35,6 +36,7 @@
 | ![clamps](emojis/clamps.png)                      | clamps          |
 | ![colorado](emojis/colorado.png)                  | colorado        |
 | ![cylon](emojis/cylon.gif)                        | cylon           |
+| ![dancing-penguin](emojis/dancing-penguin.gif)    | dancing-penguin |
 | ![delfino](emojis/delfino.png)                    | delfino         |
 | ![denver](emojis/denver.png)                      | denver          |
 | ![docker](emojis/docker.png)                      | docker          |
@@ -56,6 +58,7 @@
 | ![heroku](emojis/heroku.png)                      | heroku          |
 | ![hypnotoad](emojis/hypnotoad.gif)                | hypnotoad       |
 | ![indeed](emojis/indeed.png)                      | indeed          |
+| ![italian-chef](emojis/italian-chef.png)          | italian-chef    |
 | ![kitten](emojis/kitten.png)                      | kitten          |
 | ![kubernetes](emojis/kubernetes.png)              | kubernetes      |
 | ![lamborghini](emojis/lamborghini.png)            | lamborghini     |
@@ -69,6 +72,8 @@
 | ![pfm](emojis/pfm.png)                            | pfm             |
 | ![philosoraptor](emojis/philosoraptor.png)        | philosoraptor   |
 | ![pickle-rick](emojis/pickle-rick.png)            | pickle-rick     |
+| ![pikachu-amaze](emojis/pikachu-amaze.gif)        | pikachu-amaze   |
+| ![planet-express](emojis/planet-express.png)      | planet-express  |
 | ![phoenix](emojis/phoenix.png)                    | phoenix         |
 | ![porsche](emojis/porsche.png)                    | porsche         |
 | ![raspberrypi](emojis/raspberrypi.png)            | raspberrypi     |
