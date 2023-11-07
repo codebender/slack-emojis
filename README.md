@@ -149,3 +149,16 @@
 | ![flag-us-wi](emojis/flag-us-wi.gif)              | flag-us-wi      |
 | ![flag-us-wv](emojis/flag-us-wv.gif)              | flag-us-wv      |
 | ![flag-us-wy](emojis/flag-us-wy.gif)              | flag-us-wy      |
+
+## The Parrot section
+| Image                                             | Shortcut        |
+| :-----------------------------------------------: | --------------- |
+| ![chicoparrot](emojis/chicoparrot.gif)            | chicoparrot     |
+| ![christmasparrot](emojis/christmasparrot.gif)    | christmasparrot |
+| ![laptop_parrot](emojis/laptop_parrot.gif)        | laptop_parrot   |
+| ![opensourceparrot](emojis/opensourceparrot.gif)  | opensourceparrot|
+| ![parrot](emojis/parrot.gif)                      | parrot          |
+| ![partyparrot](emojis/partyparrot.gif)            | partyparrot     |
+| ![pirateparrot](emojis/pirateparrot.gif)          | pirateparrot    |
+| ![rubyparrot](emojis/rubyparrot.gif)              | rubyparrot      |
+| ![wfhparrot](emojis/wfhparrot.gif)                | wfhparrot       |
